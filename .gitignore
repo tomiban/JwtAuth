@@ -1,7 +1,7 @@
 
 API/bin
 API/obj
-API/.mono
+.mono
 
 
 auth-db-*
